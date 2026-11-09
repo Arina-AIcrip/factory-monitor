@@ -1,0 +1,9 @@
+{
+  "name": "factory-monitor-case8",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Кейс 8: веб-дашборд мониторинга показателей",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/*.test.mjs" }
+}
